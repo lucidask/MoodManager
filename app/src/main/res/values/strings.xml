@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mood Manager</string>
+    <string name="empty">0</string>
+    <string name="add">+</string>
+    <string name="unknow">❔</string>
+    <string name="angry">😡</string>
+    <string name="frowning">☹️</string>
+    <string name="neutral">😐</string>
+    <string name="slightly">🙂</string>
+    <string name="grinning">😄</string>
+    <string name="date">Date</string>
+    <string name="mood_distribution">Mood Distribution</string>
+    <string name="mood_trend">Mood Trend</string>
+</resources>
